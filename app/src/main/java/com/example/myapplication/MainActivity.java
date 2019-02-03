@@ -50,6 +50,5 @@ public class MainActivity extends AppCompatActivity {
         if(editText == 48){
             Toast toast =Toast.makeText(context,text,duration);
             toast.show();
-
         }*/
 }
